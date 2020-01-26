@@ -1,0 +1,17 @@
+# Ignore everything by default
+*
+# Except this
+!/.gitignore
+
+# Gem configuration
+!/.gemrc
+
+# Git configuration
+!/.gitconfig
+!/.gitignore.global
+
+# NPM configuration
+!/.npmrc
+
+# VIM configuration
+!/.vimrc
