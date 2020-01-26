@@ -1,0 +1,6 @@
+[user]
+	email = tom@msbit.com.au
+	name = Tom Sullivan
+[core]
+	excludesfile = /Users/tom/.gitignore.global
+	editor = /usr/bin/vim
