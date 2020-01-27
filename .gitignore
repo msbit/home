@@ -1,7 +1,13 @@
 # Ignore everything by default
 *
+
 # Except this
 !/.gitignore
+
+# Bundle configuration
+!/.bundle
+/.bundle/*
+!/.bundle/config
 
 # Gem configuration
 !/.gemrc
